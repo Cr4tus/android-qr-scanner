@@ -8,6 +8,7 @@ Once it is running the app is able to scan QR codes that contains a simple text 
 
 ## Frameworks & Libraries:
 - Android Jetpack Suite (including Jetpack Compose for UI) - https://developer.android.com/jetpack
+- Gradle - https://developer.android.com/build/releases/gradle-plugin
 - Google
     - zxing - https://github.com/zxing/zxing
     - accompanist (for permissions handling) - https://github.com/google/accompanist/tree/main/permissions
